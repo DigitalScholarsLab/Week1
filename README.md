@@ -21,7 +21,9 @@ public class HelloWorld {
 1. Create a variable of type int and print it to the console.
 2. Create a variable of type char (Choose a letter) and print it to the console.
 3. Create a variable of type String that starts with the letter you chose in 2, but is missing its first letter. (ex. pple, the a is missing)
+    
     3a. Print out the char and then the string (hint: +)
+    
     3b. Add "I created the word" to the beginning of your print statement 
     
 ## Inputs & Outputs 
@@ -30,9 +32,10 @@ public class HelloWorld {
 2. Store the answer in a variable of the appropriate type.
 3. Print "You answered" and the response to the question.
 
-## If & If-Else Statements
+## If, If-Else, and Nested If Statements
 
 1. Based on your yes or no question, respond to all 3 (yes, no, other) potential user responses. 
+2. For all 3 responces ask the user another question (Can be yes/no or give the choices of a) or b)).
 
 ## Project #1: Episodes 
 Your Episode will allow the user to become a character in your story. Fill your story with love, romance, adventure, and drama. Start by copying and pasting the below code fragment into the online compiler. Use your print statements, if statements, if - else statements and nested if statements to create a story with atleast 5 different questions, each question with atleast 2 options. Happy Coding!
