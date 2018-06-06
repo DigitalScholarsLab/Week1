@@ -34,4 +34,6 @@ public class HelloWorld {
 
 1. Based on your yes or no question, respond to all 3 (yes, no, other) potential user responses. 
 
-## Project #1
+## Project #1: Episodes 
+Your Episode will allow the user to become a character in your story. Fill your story with love, romance, adventure, and drama. Start by copying and pasting the below code fragment into the online compiler. From here the details are up to you. Use your print statements, if statements, if - else statements and nested if statements to create a story.
+
