@@ -32,10 +32,10 @@ public class HelloWorld {
 2. Store the answer in a variable of the appropriate type.
 3. Print "You answered" and the response to the question.
 
-## If, If-Else, and Nested If Statements
-
-1. Based on your yes or no question, respond to all 3 (yes, no, other) potential user responses. 
-2. For all 3 responces ask the user another question (Can be yes/no or give the choices of a) or b)).
+## If, Else-If, Else and Nested If Statements
+1. Based on your yes or no question, respond to all 3 (yes, no, other) potential user responses using if, if else, and else statements. 
+2. Choose one response (yes, no, or other) and ask the user another question (Can be yes/no or give the choices of a) or b)).
+3. Respond to one of the potential user reponses to your second question using a nested if statement.
 
 ## Project #1: Episodes 
 Your Episode will allow the user to become a character in your story. Fill your story with love, romance, adventure, and drama. Start by copying and pasting the below code fragment into the online compiler. Use your print statements, if statements, if - else statements and nested if statements to create a story with atleast 5 different questions, each question with atleast 2 options. Happy Coding!
